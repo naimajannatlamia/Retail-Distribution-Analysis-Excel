@@ -17,4 +17,4 @@ Advanced Excel, PivotTable, VLOOKUP, INDEX-MATCH, Charts
 ![Retail Distribution Analysis Report](retail-distribution-analysis.png.jpg)
 
 ### Excel Analysis (PivotTables)
-![Excel PivotTable Analysis](Territory_Category_Brand)
+![Excel PivotTable Analysis](Territory_Category_Brand.jpg)
